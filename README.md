@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="screenshots/landing-page1.png" width="600"/>
-</p>
-
 # 🏥 MediScheduler - Healthcare Appointment Scheduler
 
 <p align="center">
