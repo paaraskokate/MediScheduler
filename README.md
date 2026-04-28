@@ -34,60 +34,23 @@ A full-stack healthcare appointment scheduling system built with Django REST Fra
 
 ## 📱 Screenshots
 
-### Landing Page
-The landing page features a modern gradient design with:
-- Hero section with call-to-action buttons
-- Quick booking card
-- Service highlights (Expert Doctors, Easy Booking, Flexible Scheduling, Verified Records)
-- Specializations (Cardiology, Dentistry, Dermatology, Neurology)
-- How It Works section (3 easy steps)
-- Contact information footer
+### Landing Page - Part 1
+![Landing Page 1](screenshots/landing-page1.png)
+
+### Landing Page - Part 2
+![Landing Page 2](screenshots/landing-page2.png)
+
+### Landing Page - Part 3
+![Landing Page 3](screenshots/landing-page3.png)
+
+### Login Page
+![Login Page](screenshots/login-page.png)
 
 ### Patient Dashboard
-```
-┌─────────────────────────────────────────────────┐
-│  Patient Dashboard                    Logout │
-├─────────────────────────────────────────────────┤
-│  Book an Appointment                              │
-│  ┌─────────────────────────────────────────┐   │
-│  │ Select Specialization    ▼             │   │
-│  │ Select Doctor            ▼             │   │
-│  │ Appointment Date        [📅]           │   │
-│  │ Select Time Slot         ▼             │   │
-│  │ Symptoms               [..........]   │   │
-│  │                    [Book Appointment] │   │
-│  └─────────────────────────────────────────┘   │
-│                                                  │
-│  My Appointments                                │
-│  ┌──────────┐ ┌──────────┐ ┌──────────┐        │
-│  │ Dr.Smith│ │Accepted │ │ Room:101 │        │
-│  │ 29/04   │ │ 10:00 AM │ │          │        │
-│  └──────────┘ └──────────┘ └──────────┘        │
-└─────────────────────────────────────────────────┘
-```
+![Patient Dashboard](screenshots/patient-dashboard.png)
 
 ### Doctor Dashboard
-```
-┌─────────────────────────────────────────────────┐
-│  Doctor Dashboard                    Logout       │
-├─────────────────────────────────────────────────┤
-│  Patient Appointments                             │
-│  ┌─────────────────────────────────────────┐   │
-│  │ 🔴 John Doe - Room 101               │   │
-│  │ Patient Description:                  │   │
-│  │ "Chest pain and shortness of breath"      │   │
-│  │ Date: 29/04/2026 Time: 10:00 AM    │   │
-│  │ [Status: Pending]                  │   │
-│  └─────────────────────────────────────────┘   │
-│                                                  │
-│  Schedule Board                                │
-│  ┌─────────────────────────────────────────┐   │
-│  │ Doctor   │ Room │ Date    │ Time          │   │
-│  │ Dr.Smith │ 101  │ 29/04  │ 09:00        │   │
-│  │ Dr.Smith │ 102  │ 29/04  │ 10:00        │   │
-│  └─────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────┘
-```
+![Doctor Dashboard](screenshots/doctor-dashboard.png)
 
 ## 🏗️ Project Structure
 
