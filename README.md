@@ -290,4 +290,4 @@ MIT License - See LICENSE file for details.
 
 ---
 
-<p align="center">Made with ❤️ by <a href="https://github.com/paaraskokate">Paaras Kokate</a></p>
+<p align="center">Made by <a href="https://github.com/paaraskokate">Paaras Kokate</a></p>
