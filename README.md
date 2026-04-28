@@ -1,4 +1,8 @@
-# MediScheduler - Healthcare Appointment Scheduler
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/paaraskokate/MediScheduler/screenshots/landing-page1.png" width="600"/>
+</p>
+
+# 🏥 MediScheduler - Healthcare Appointment Scheduler
 
 <p align="center">
   <img src="https://img.shields.io/badge/Django-6.0.4-092E20?style=for-the-badge&logo=django" alt="Django">
