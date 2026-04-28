@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/paaraskokate/MediScheduler/screenshots/landing-page1.png" width="600"/>
+  <img src="screenshots/landing-page1.png" width="600"/>
 </p>
 
 # 🏥 MediScheduler - Healthcare Appointment Scheduler
